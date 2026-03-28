@@ -1,20 +1,18 @@
 <!--
+
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused sections.
 
 You can also include images in this folder and reference them in the markdown. Each image must be less than 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-
-# 3-bit Adder
-
-## Description
-This project adds three one-bit inputs together.
-
 ## How it works
+
 The project takes in three one-bit wide vectors and adds them together.
 
 ## How to test
-Cycle all the input bits and verify that it adds correctly.
+
+cycle all the input bits and verify that it adds.
 
 ## External hardware
+
 None
