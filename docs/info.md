@@ -5,15 +5,16 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 
+# 3-bit Adder
 
+## Description
+This project adds three one-bit inputs together.
 
 ## How it works
-
 The project takes in three one-bit wide vectors and adds them together.
-## How to test
 
-cycle all the input bits and verify that it adds.
+## How to test
+Cycle all the input bits and verify that it adds correctly.
 
 ## External hardware
-
 None
